@@ -11,30 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Lycée, Lycée Robert Schuman 2017-2019
+* Lycée ,Lycée des Garçons 2019-2023
+* LTS, Luxembourg Tech School 2019-2021
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2022, 2 Week Summerjob in the Chamber of Deputies: 
+  * Helped insert translated Texts into the new CHD website
+  * Also took the picture for one private Session (may be this session but i don't remeber https://www.chd.lu/en/node/195)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Student Coach at Luxembourg Tech School 2022-2023
+  * I help give lessons every Wednesday afternoon in Lycée Michel Lucius
+  * The students are around 12-14 years old and get taught everything around creative coding, digital thinking and Interactional Design. If you want to know more go take a look at techschool.lu
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Able to quickly adapt and improvise
+* I have a braud, sometimes more or less helpfull general knowledge and like to explore new topics
 
 Publications
 ======
