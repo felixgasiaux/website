@@ -13,7 +13,7 @@ name                     : &name "Félix Gasiaux"
 description              : &description "personal description"
 url                      : https://felixgasiaux.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "felixgasiaux/felixgasiaux.io"
+repository               : "felixgasiaux/website"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Félix Gasiaux"
   avatar           : "profile.png"
-  bio              : "I am an 18 year old Lycée Student in LGL. I am passionate about everything tech and robotics."
+  bio              : "I am an 18 year old Lycee Student in LGL. I am passionate about everything tech and robotics."
   location         : "Luxembourg"
   employer         :
   pubmed           : 
