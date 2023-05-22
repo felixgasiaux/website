@@ -1,7 +1,7 @@
 ---
 title: "Yoshi"
 excerpt: "A short remeberence of my cat, Yoshi, who died on the 27 th of april 2023 while I was on school trip<br/>
-<img src='/images/Yoshi/IMG_1258.JPG'>"
+<img src='/images/Yoshi/IMG_1258.jpg'>"
 
 collection: portfolio
 ---
