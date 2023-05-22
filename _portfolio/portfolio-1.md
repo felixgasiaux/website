@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Yoshi"
+excerpt: "A short remeberence of my cat, Yoshi, who died on the 27 th of april 2023 while I was on school trip<br/><img src='/images/bio-photo-2.jpg'>"
 collection: portfolio
 ---
 
