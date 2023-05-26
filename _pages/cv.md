@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Lycee, Lycée Robert Schuman 2017-2019
-* Lycee ,Lycée des Garçons 2019-2023
+* Lycee, Lycée des Garçons 2019-2023
 * LTS, Luxembourg Tech School 2019-2021
 
 Work experience
